@@ -26,6 +26,8 @@ public class User {
     private String name;
     private String phone;
 
+    private Integer aa;
+
     public void setId(Integer id) {
         this.id = id;
     }
